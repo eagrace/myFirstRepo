@@ -1,0 +1,45 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JSON Example</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <script src="jQuery-2.0.3.min.js"></script>
+        <!--<script src="main.js"></script>-->
+        
+    </head>
+    <body>
+        
+        <ul id="names"></ul>
+        
+        <script>
+            $(document).ready(function() {
+                
+                var namesDiv = $("#names");
+                console.log("sdjf");
+                
+              $.getJSON('data.json', function(data)   {
+                    //what'd we get?
+                    //hmmmmm??
+                    console.log("data");
+                    
+                    var tracks = data.albums[0].tracks;
+                    for(var i = 0; i < tracks.length; i++)  {
+                        namesDiv.append("<li>"
+                                        + tracks[i]
+                                        + "</li>"
+                                        );
+                    }
+                
+                });
+                
+            });
+        </script>
+        
+       
+    </body>
+</html>
