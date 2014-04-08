@@ -1,0 +1,65 @@
+<html>
+	<head>
+		<title>
+			Music Player
+		</title>
+                <link rel="stylesheet" type="text/css" href="../style.css" />       
+		<script src="../js/jquery-2.0.3.min.js"></script>
+                <script src="../js/jquery-1.7.2.min.js"></script>
+		<script src="../js/main.js"></script>                
+                <script>
+                    $(document).ready(function() {
+                        
+                        
+                var namesDiv = $(".main");
+                console.log("sdjf");
+                
+              $.getJSON('data.json', function(data)   {
+                    //what'd we get?
+                    //hmmmmm??
+                    console.log("data");
+                    
+                    var tracks = data.albums[0].tracks;
+                    for(var i = 0; i < tracks.length; i++)  {
+                        namesDiv.append("<li>"
+                                        + tracks[i]
+                                        + "</li>"
+                                        );
+                    }
+                
+                });                        
+                        
+                        $('.answer').hide();
+                        $('.main h2').toggle(function() {
+                                     $(this).next('.answer').fadeIn();
+                                     //     $(this).addClass('close');
+                                       },
+                                       function() {
+                                        $(this).next('.answer').fadeOut();
+                                      //    $(this).removeClass('close');
+                                 }); // end toggle
+                       }); // end ready
+                </script>
+        
+	</head>
+<body>
+    <div class="words">
+    <h1>Albums and songs in 'Music Player'</h1>
+    <h3>Click on the album and the songs will display below..</h3>
+    <div class="main">
+        <h2>I've heard that Music Player is funny.  Is that true?</h2>
+              <div class="answer">
+                <p>Why, yes it is! Studies have proven that we're hilarious and you should think so too.</p>
+              </div>
+         <h2>Why is Music Player so awesome?</h2>
+              <div class="answer">
+                <p>Because they just are.</p>
+              </div>
+         <h2>How can I play Music Player?</h2>
+              <div class="answer">
+                <p>Answer goes here!</p>
+              </div>	
+    </div><!--end .words-->
+    </div><!--end of #main-->
+</body>
+</html>
