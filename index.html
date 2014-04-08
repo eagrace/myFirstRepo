@@ -5,19 +5,84 @@ and open the template in the editor.
 <!DOCTYPE html>
 <html>
     <head>
-        <title>JSON Example</title>
+        <title>Music Player</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        
-        <script src="jQuery-2.0.3.min.js"></script>
-        <!--<script src="main.js"></script>-->
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <script src="js/jquery-2.0.3.min.js"></script>
+        <script src="js/jquery-1.7.2.min.js"></script>
+        <script src="js/main.js"></script>
         
     </head>
     <body>
+       <div id="banner">
+                    <h1>Music Player</h1>
+			<ul class="nav">
+				<li id="homeBtn">Home</li>
+                                    <li class="menu">
+                                        <p>Back to Home Page.</p>
+                                    </li><!--options-->
+				<li id="aboutBtn">About</li>
+                                    <li class="menu">
+                                        <p>About & FAQs.</p>
+                                    </li><!--options-->
+                                <li id="slideBtn">Music Player</li>
+                                    <li class="menu">
+                                        <p>An option goes here.</p> 
+                                    </li><!--options-->
+			</ul>
+        </div><!-- end banner and nav elements -->
         
-        <ul id="names"></ul>
+        <!-- content goes here.. -->
+        <div id="content">
+            <!-- this is where an array of the songs would display -->
+            <div id="names"></div>
+        </div><!-- end #content -->
         
         <script>
+            
+            //wait for the document to be ready to go
             $(document).ready(function() {
+                //this is for the nav
+                $("#aboutBtn").click(function()		{
+                    $.get(
+		       "fragments/about.html",
+		        function(data)		{
+                            $("#content").html(data);
+                            window.location.hash = "about";
+		})
+		})
+                //this is for the nav
+		$("#homeBtn").click(function()		{
+                    $.get(
+			"fragments/index.html",
+			function(data)		{
+                            $("#content").html(data);
+                            window.location.hash = "home";
+                })
+		})
+                //this is for the nav                
+		$("#slideBtn").click(function()		{
+                    $.get(
+			"fragments/slide.html",
+			function(data)		{
+                            $("#content").html(data);
+                            window.location.hash = "slide";
+                })
+                })
+                //this is for the nav
+                 $('.menu').hide();
+                     $('.nav li').toggle(function() {
+                           $(this).next('.menu').fadeIn();
+                           //     $(this).addClass('close');
+                  },
+                  //this is for the nav
+                       function() {
+                            $(this).next('.nav li').fadeOut();
+                            //    $(this).removeClass('close');
+                }); // end toggle
+                
+                
+                
                 
                 var namesDiv = $("#names");
                 console.log("sdjf");
@@ -38,6 +103,7 @@ and open the template in the editor.
                 });
                 
             });
+          
         </script>
         
        
