@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-04-08T19:21:40Z</date>
+	<key>Application Version</key><string>11.1.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>525353E59245F67B</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2289</key>
+		<dict>
+			<key>Track ID</key><integer>2289</integer>
+			<key>Name</key><string>Electric Elves</string>
+			<key>Artist</key><string>Michael Kelsey </string>
+			<key>Album</key><string>Gruvency</string>
+			<key>Genre</key><string>Acoustic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5416377</integer>
+			<key>Total Time</key><integer>160426</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-04-08T19:17:24Z</date>
+			<key>Date Added</key><date>2010-09-04T22:25:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3434026086</integer>
+			<key>Play Date UTC</key><date>2012-10-25T20:08:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-05T17:52:11Z</date>
+			<key>Normalization</key><integer>4816</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4E222C6C2DA640A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Michael%20Kelsey/Gruvency/11%20Electric%20Elves.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3177</key>
+		<dict>
+			<key>Track ID</key><integer>3177</integer>
+			<key>Name</key><string>Sprite!</string>
+			<key>Artist</key><string>Freezepop</string>
+			<key>Composer</key><string>Freezepop</string>
+			<key>Album</key><string>Fashion Impression Function</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4106655</integer>
+			<key>Total Time</key><integer>132231</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-02-26T02:00:00Z</date>
+			<key>Date Added</key><date>2010-09-24T18:00:41Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3470823667</integer>
+			<key>Play Date UTC</key><date>2013-12-25T17:41:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-08T19:11:08Z</date>
+			<key>Persistent ID</key><string>B8210E50C23E4C9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Freezepop/Fashion%20Impression%20Function/10%20Sprite!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3569</key>
+		<dict>
+			<key>Track ID</key><integer>3569</integer>
+			<key>Name</key><string>Communication Breakdown</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album</key><string>Led Zeppelin </string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5993661</integer>
+			<key>Total Time</key><integer>149812</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2010-03-09T15:13:30Z</date>
+			<key>Date Added</key><date>2010-09-24T18:00:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3477490594</integer>
+			<key>Play Date UTC</key><date>2014-03-12T21:36:34Z</date>
+			<key>Persistent ID</key><string>20FA9F9E23EC69B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Led%20Zeppelin/Led%20Zeppelin/07%20Communication%20Breakdown.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3583</key>
+		<dict>
+			<key>Track ID</key><integer>3583</integer>
+			<key>Name</key><string>Heartbreaker</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album</key><string>Led Zeppelin II</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10165939</integer>
+			<key>Total Time</key><integer>254119</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2010-02-25T08:22:04Z</date>
+			<key>Date Added</key><date>2010-09-24T18:00:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3465289519</integer>
+			<key>Play Date UTC</key><date>2013-10-22T16:25:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-08-23T18:36:08Z</date>
+			<key>Persistent ID</key><string>0325957FE68C70A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Led%20Zeppelin/Led%20Zeppelin%20II/05%20Heartbreaker.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3585</key>
+		<dict>
+			<key>Track ID</key><integer>3585</integer>
+			<key>Name</key><string>Living Loving Maid (She's Just</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album</key><string>Led Zeppelin II</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6376094</integer>
+			<key>Total Time</key><integer>159373</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2010-02-25T08:21:02Z</date>
+			<key>Date Added</key><date>2010-09-24T18:00:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3465289679</integer>
+			<key>Play Date UTC</key><date>2013-10-22T16:27:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-05-30T03:33:01Z</date>
+			<key>Persistent ID</key><string>54C7D82516E98B13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Led%20Zeppelin/Led%20Zeppelin%20II/06%20Living%20Loving%20Maid%20(She's%20Just.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4861</key>
+		<dict>
+			<key>Track ID</key><integer>4861</integer>
+			<key>Name</key><string>Glass Onion</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Composer</key><string>The Beatles</string>
+			<key>Album</key><string>Love</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2738786</integer>
+			<key>Total Time</key><integer>80626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>BPM</key><integer>343</integer>
+			<key>Date Modified</key><date>2010-03-23T02:16:30Z</date>
+			<key>Date Added</key><date>2010-09-24T18:40:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Cleaned by TuneUp!</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3427575020</integer>
+			<key>Play Date UTC</key><date>2012-08-12T04:10:20Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-08T19:16:36Z</date>
+			<key>Normalization</key><integer>1579</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Sort Composer</key><string>Beatles</string>
+			<key>Persistent ID</key><string>A19EC1C27D38DF39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Beatles/Love/03%20Glass%20Onion.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4869</key>
+		<dict>
+			<key>Track ID</key><integer>4869</integer>
+			<key>Name</key><string>Drive My Car/The Word/What You're Doing</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Composer</key><string>The Beatles</string>
+			<key>Album</key><string>Love</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3798284</integer>
+			<key>Total Time</key><integer>114346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>BPM</key><integer>443</integer>
+			<key>Date Modified</key><date>2010-03-23T02:16:38Z</date>
+			<key>Date Added</key><date>2010-09-24T18:40:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Cleaned by TuneUp!</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3413076910</integer>
+			<key>Play Date UTC</key><date>2012-02-26T08:55:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-08T19:03:44Z</date>
+			<key>Normalization</key><integer>3210</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Sort Composer</key><string>Beatles</string>
+			<key>Persistent ID</key><string>D5EBA761B0334FD1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Beatles/Love/07%20Drive%20My%20Car_The%20Word_What%20You're%20Doing.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4979</key>
+		<dict>
+			<key>Track ID</key><integer>4979</integer>
+			<key>Name</key><string>Break on Through</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album Artist</key><string>The Doors</string>
+			<key>Composer</key><string>Jim Morrison/John Densmore/Ray Manzarek/Robbie Krieger/Robby Krieger</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4834703</integer>
+			<key>Total Time</key><integer>149315</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-14T05:45:52Z</date>
+			<key>Date Added</key><date>2010-09-24T18:40:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3410622763</integer>
+			<key>Play Date UTC</key><date>2012-01-28T23:12:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Persistent ID</key><string>56D1C07FC94876D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Doors/Greatest%20Hits/06%20Break%20on%20Through.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5047</key>
+		<dict>
+			<key>Track ID</key><integer>5047</integer>
+			<key>Name</key><string>Do You Realize??</string>
+			<key>Artist</key><string>The Flaming Lips</string>
+			<key>Album</key><string>Yoshimi Battles the Pink Robots</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5107836</integer>
+			<key>Total Time</key><integer>212715</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2010-04-08T17:54:36Z</date>
+			<key>Date Added</key><date>2010-09-24T18:40:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3453906115</integer>
+			<key>Play Date UTC</key><date>2013-06-12T22:21:55Z</date>
+			<key>Sort Artist</key><string>Flaming Lips</string>
+			<key>Persistent ID</key><string>B01FEC0743462665</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Flaming%20Lips/Yoshimi%20Battles%20the%20Pink%20Robots/Do%20You%20Realize__.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5669</key>
+		<dict>
+			<key>Track ID</key><integer>5669</integer>
+			<key>Name</key><string>Dazz </string>
+			<key>Artist</key><string>Brick</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2695444</integer>
+			<key>Total Time</key><integer>335647</integer>
+			<key>Date Modified</key><date>2014-04-08T19:17:15Z</date>
+			<key>Date Added</key><date>2010-10-28T21:27:16Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3448748528</integer>
+			<key>Play Date UTC</key><date>2013-04-14T05:42:08Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-04-05T18:15:41Z</date>
+			<key>Persistent ID</key><string>23386D64281B8DAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Brick/Unknown%20Album/Dazz.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6491</key>
+		<dict>
+			<key>Track ID</key><integer>6491</integer>
+			<key>Name</key><string>Why Can't I Be You?</string>
+			<key>Artist</key><string>The Cure</string>
+			<key>Composer</key><string>Laurence Tolhurst/Simon Gallup/Boris Williams/Porl Thompson</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6753908</integer>
+			<key>Total Time</key><integer>194506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2010-11-23T05:01:41Z</date>
+			<key>Date Added</key><date>2010-11-23T05:01:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3475581929</integer>
+			<key>Play Date UTC</key><date>2014-02-18T19:25:29Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2013-05-23T19:55:37Z</date>
+			<key>Normalization</key><integer>9947</integer>
+			<key>Sort Artist</key><string>Cure</string>
+			<key>Persistent ID</key><string>78A4DDDEDFE11093</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Cure/Greatest%20Hits/08%20Why%20Can't%20I%20Be%20You_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6497</key>
+		<dict>
+			<key>Track ID</key><integer>6497</integer>
+			<key>Name</key><string>Lovesong</string>
+			<key>Artist</key><string>The Cure</string>
+			<key>Composer</key><string>Roger O'Donnell/Simon Gallup/Laurence Tolhurst/Porl Thompson/Boris Williams</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7290649</integer>
+			<key>Total Time</key><integer>208333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2010-11-23T05:02:56Z</date>
+			<key>Date Added</key><date>2010-11-23T05:02:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3475565662</integer>
+			<key>Play Date UTC</key><date>2014-02-18T14:54:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-02-20T06:36:29Z</date>
+			<key>Normalization</key><integer>5634</integer>
+			<key>Sort Artist</key><string>Cure</string>
+			<key>Persistent ID</key><string>64F1FDA51900BAF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Cure/Greatest%20Hits/11%20Lovesong.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6959</key>
+		<dict>
+			<key>Track ID</key><integer>6959</integer>
+			<key>Name</key><string>If You Found This It's Probably Too Late</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Alex Turner/Arctic Monkeys</string>
+			<key>Album</key><string>Brianstorm</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2968120</integer>
+			<key>Total Time</key><integer>92447</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2010-05-21T04:58:06Z</date>
+			<key>Date Added</key><date>2010-12-29T21:29:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3419763279</integer>
+			<key>Play Date UTC</key><date>2012-05-13T18:14:39Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2014-04-08T19:18:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D4D8E0CD1DDEA97</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Brianstorm/01%20If%20You%20Found%20This%20It's%20Probably%20Too%20Late.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7273</key>
+		<dict>
+			<key>Track ID</key><integer>7273</integer>
+			<key>Name</key><string>Highly Evolved</string>
+			<key>Artist</key><string>The Vines</string>
+			<key>Composer</key><string>Craig Nicholls</string>
+			<key>Album</key><string>Highly Evolved</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1562222</integer>
+			<key>Total Time</key><integer>96523</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2010-05-04T00:56:30Z</date>
+			<key>Date Added</key><date>2010-12-29T21:29:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3433504180</integer>
+			<key>Play Date UTC</key><date>2012-10-19T19:09:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-08T19:09:57Z</date>
+			<key>Normalization</key><integer>1021</integer>
+			<key>Sort Artist</key><string>Vines</string>
+			<key>Persistent ID</key><string>8787032F765060D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Vines/Highly%20Evolved/01%20Highly%20Evolved.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7291</key>
+		<dict>
+			<key>Track ID</key><integer>7291</integer>
+			<key>Name</key><string>Blitzkrieg Bop</string>
+			<key>Artist</key><string>The Ramones</string>
+			<key>Album</key><string>Greatest Hits </string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3874120</integer>
+			<key>Total Time</key><integer>132780</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-03-22T18:49:24Z</date>
+			<key>Date Added</key><date>2010-12-29T21:29:43Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Audio CD (June 6, 2006) 
+Original Release Date: June 6, 2006 
+Number of Discs: 1 
+Label: Rhino / Wea 
+ASIN: B000EXZI0A </string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3425825393</integer>
+			<key>Play Date UTC</key><date>2012-07-22T22:09:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-08T19:12:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Ramones</string>
+			<key>Persistent ID</key><string>7512673C5932E38B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Greatest%20Hits/01%20Blitzkrieg%20Bop.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7427</key>
+		<dict>
+			<key>Track ID</key><integer>7427</integer>
+			<key>Name</key><string>Summertime </string>
+			<key>Artist</key><string>The Zombies</string>
+			<key>Album</key><string>Odyssey and Oracle</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1088648</integer>
+			<key>Total Time</key><integer>134791</integer>
+			<key>Date Modified</key><date>2014-04-08T19:18:03Z</date>
+			<key>Date Added</key><date>2011-01-18T03:31:41Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>93</integer>
+			<key>Play Date</key><integer>3479484791</integer>
+			<key>Play Date UTC</key><date>2014-04-04T23:33:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-04-05T22:42:22Z</date>
+			<key>Sort Artist</key><string>Zombies</string>
+			<key>Persistent ID</key><string>D2082BCC1F37D9E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Zombies/Odyssey%20and%20Oracle/Summertime.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7957</key>
+		<dict>
+			<key>Track ID</key><integer>7957</integer>
+			<key>Name</key><string>From Me To You</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Composer</key><string>Something</string>
+			<key>Album</key><string>Revolution </string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3973742</integer>
+			<key>Total Time</key><integer>116373</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>27</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-09-27T05:03:08Z</date>
+			<key>Date Added</key><date>2011-10-02T17:24:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3443009910</integer>
+			<key>Play Date UTC</key><date>2013-02-06T19:38:30Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2014-04-08T19:02:17Z</date>
+			<key>Normalization</key><integer>5003</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>83F3B1DF9CE51031</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/The%20Beatles/Revolution/02%20From%20Me%20To%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8169</key>
+		<dict>
+			<key>Track ID</key><integer>8169</integer>
+			<key>Name</key><string>Ken's Wipeout</string>
+			<key>Artist</key><string>Man Factory</string>
+			<key>Album Artist</key><string>Man Factory</string>
+			<key>Album</key><string>Street Fight!! Round Two</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4559452</integer>
+			<key>Total Time</key><integer>113972</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-04-08T19:19:05Z</date>
+			<key>Date Added</key><date>2011-12-13T18:18:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3468514751</integer>
+			<key>Play Date UTC</key><date>2013-11-29T00:19:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-08T19:19:14Z</date>
+			<key>Persistent ID</key><string>59843BF2528CC2DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Man%20Factory/Street%20Fight!!%20Round%20Two/03%20Ken's%20Wipeout.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8253</key>
+		<dict>
+			<key>Track ID</key><integer>8253</integer>
+			<key>Name</key><string>1991</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4540660</integer>
+			<key>Total Time</key><integer>113502</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-02-03T05:49:23Z</date>
+			<key>Date Added</key><date>2012-02-03T05:50:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3451763643</integer>
+			<key>Play Date UTC</key><date>2013-05-19T03:14:03Z</date>
+			<key>Persistent ID</key><string>6CDC52453083BAA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles/09%201991.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8303</key>
+		<dict>
+			<key>Track ID</key><integer>8303</integer>
+			<key>Name</key><string>Post Houmous</string>
+			<key>Artist</key><string>Morcheeba</string>
+			<key>Album</key><string>Who Can You Trust</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2550742</integer>
+			<key>Total Time</key><integer>106187</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-04-08T19:19:28Z</date>
+			<key>Date Added</key><date>2012-02-20T16:22:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3479815097</integer>
+			<key>Play Date UTC</key><date>2014-04-08T19:18:17Z</date>
+			<key>Persistent ID</key><string>A1F6C37B9C9E9B4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Morcheeba/Who%20Can%20You%20Trust/03%20Post%20Houmous.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14417</key>
+		<dict>
+			<key>Track ID</key><integer>14417</integer>
+			<key>Name</key><string>Afterthought</string>
+			<key>Artist</key><string>Fugazi</string>
+			<key>Album</key><string>Instrument Soundtrack</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1845743</integer>
+			<key>Total Time</key><integer>88633</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-03-27T08:24:00Z</date>
+			<key>Date Added</key><date>2013-04-23T07:01:50Z</date>
+			<key>Bit Rate</key><integer>165</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3449603204</integer>
+			<key>Play Date UTC</key><date>2013-04-24T03:06:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-08T19:16:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>208ECB86133BA19C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Fugazi/Instrument%20Soundtrack/04%20Afterthought.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15453</key>
+		<dict>
+			<key>Track ID</key><integer>15453</integer>
+			<key>Name</key><string>Of Moons, Birds &#38; Monsters</string>
+			<key>Artist</key><string>MGMT</string>
+			<key>Album</key><string>Oracular Spectacular</string>
+			<key>Genre</key><string>Alternative, Psychadelic, Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9406590</integer>
+			<key>Total Time</key><integer>286772</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-03-05T17:45:28Z</date>
+			<key>Date Added</key><date>2013-04-23T07:03:25Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3470934606</integer>
+			<key>Play Date UTC</key><date>2013-12-27T00:30:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-08T19:18:56Z</date>
+			<key>Persistent ID</key><string>CBB76A40753FC3B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/MGMT/Oracular%20Spectacular/08%20Of%20Moons,%20Birds%20&#38;%20Monsters%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17407</key>
+		<dict>
+			<key>Track ID</key><integer>17407</integer>
+			<key>Name</key><string>Head On</string>
+			<key>Artist</key><string>Pixies</string>
+			<key>Album</key><string>Trompe le Monde</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2198228</integer>
+			<key>Total Time</key><integer>136021</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2012-06-24T00:15:54Z</date>
+			<key>Date Added</key><date>2013-04-23T07:08:28Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-08T19:18:43Z</date>
+			<key>Normalization</key><integer>3546</integer>
+			<key>Persistent ID</key><string>4F5FC2409F3D8060</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Pixies/Trompe%20le%20Monde/05%20Head%20On.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>22091</key>
+		<dict>
+			<key>Track ID</key><integer>22091</integer>
+			<key>Name</key><string>Slide Through My Fingers</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Album</key><string>Tame Impala</string>
+			<key>Genre</key><string>Psychedelic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4919421</integer>
+			<key>Total Time</key><integer>200254</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-07-16T16:08:22Z</date>
+			<key>Date Added</key><date>2013-04-23T07:17:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3449780337</integer>
+			<key>Play Date UTC</key><date>2013-04-26T04:18:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-04-29T21:21:01Z</date>
+			<key>Normalization</key><integer>4019</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF996FD024B47E4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Tame%20Impala/Tame%20Impala/05%20Slide%20Through%20My%20Fingers.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26537</key>
+		<dict>
+			<key>Track ID</key><integer>26537</integer>
+			<key>Name</key><string>Woman</string>
+			<key>Artist</key><string>Wolfmother</string>
+			<key>Album</key><string>Wolfmother</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5674840</integer>
+			<key>Total Time</key><integer>175725</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-04-08T19:19:54Z</date>
+			<key>Date Added</key><date>2013-04-23T07:26:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3450101255</integer>
+			<key>Play Date UTC</key><date>2013-04-29T21:27:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C71B1D392626532B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Wolfmother/Wolfmother/02%20Woman.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26573</key>
+		<dict>
+			<key>Track ID</key><integer>26573</integer>
+			<key>Name</key><string>Le voyage de Pénélope</string>
+			<key>Artist</key><string>Air</string>
+			<key>Album Artist</key><string>Air</string>
+			<key>Composer</key><string>Nicolas Godin &#38; Jean-Benoit Dunckel</string>
+			<key>Album</key><string>Moon Safari</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6907857</integer>
+			<key>Total Time</key><integer>190865</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-05-09T19:19:30Z</date>
+			<key>Date Added</key><date>2013-05-09T19:08:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3476382311</integer>
+			<key>Play Date UTC</key><date>2014-02-28T01:45:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-08T18:37:51Z</date>
+			<key>Normalization</key><integer>2453</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moon Safari</string>
+			<key>Sort Artist</key><string>Air</string>
+			<key>Sort Name</key><string>Le voyage de Pénélope</string>
+			<key>Persistent ID</key><string>9E11CA0FA6BA98D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Air/Moon%20Safari/10%20Le%20voyage%20de%20Pe%CC%81ne%CC%81lope.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26577</key>
+		<dict>
+			<key>Track ID</key><integer>26577</integer>
+			<key>Name</key><string>La femme d'argent</string>
+			<key>Artist</key><string>Air</string>
+			<key>Album Artist</key><string>Air</string>
+			<key>Composer</key><string>Nicolas Godin &#38; Jean-Benoit Dunckel</string>
+			<key>Album</key><string>Moon Safari</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>15364412</integer>
+			<key>Total Time</key><integer>431252</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-05-09T19:14:51Z</date>
+			<key>Date Added</key><date>2013-05-09T19:08:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3475596629</integer>
+			<key>Play Date UTC</key><date>2014-02-18T23:30:29Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2014-04-05T17:57:55Z</date>
+			<key>Normalization</key><integer>2918</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moon Safari</string>
+			<key>Sort Artist</key><string>Air</string>
+			<key>Sort Name</key><string>La femme d'argent</string>
+			<key>Persistent ID</key><string>6F615238320D247E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Air/Moon%20Safari/01%20La%20femme%20d'argent.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26865</key>
+		<dict>
+			<key>Track ID</key><integer>26865</integer>
+			<key>Name</key><string>The Cosmic Gate</string>
+			<key>Artist</key><string>Thievery Corporation</string>
+			<key>Album</key><string>The Cosmic Game</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3496431</integer>
+			<key>Total Time</key><integer>139284</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-04-08T19:19:38Z</date>
+			<key>Date Added</key><date>2013-06-06T20:56:37Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3462009068</integer>
+			<key>Play Date UTC</key><date>2013-09-14T17:11:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-08T19:19:40Z</date>
+			<key>Sort Album</key><string>The Cosmic Game</string>
+			<key>Sort Artist</key><string>Thievery Corporation</string>
+			<key>Sort Name</key><string>The Cosmic Gate</string>
+			<key>Persistent ID</key><string>9BF1EBD0A923B066</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Thievery%20Corporation/The%20Cosmic%20Game/04%20The%20Cosmic%20Gate.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27185</key>
+		<dict>
+			<key>Track ID</key><integer>27185</integer>
+			<key>Name</key><string>Work All Day</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Album</key><string>The Satanic Satanist</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6637499</integer>
+			<key>Total Time</key><integer>178946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-02-05T02:07:41Z</date>
+			<key>Date Added</key><date>2014-02-05T02:06:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3475775639</integer>
+			<key>Play Date UTC</key><date>2014-02-21T01:13:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-08T19:14:00Z</date>
+			<key>Release Date</key><date>2009-01-01T00:00:00Z</date>
+			<key>Normalization</key><integer>5011</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Satanic Satanist</string>
+			<key>Persistent ID</key><string>D15653002B878F46</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Portugal.%20The%20Man/The%20Satanic%20Satanist/02%20Work%20All%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27187</key>
+		<dict>
+			<key>Track ID</key><integer>27187</integer>
+			<key>Name</key><string>Lovers in Love</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Album</key><string>The Satanic Satanist</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7184421</integer>
+			<key>Total Time</key><integer>193960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-02-05T02:07:44Z</date>
+			<key>Date Added</key><date>2014-02-05T02:06:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3476963127</integer>
+			<key>Play Date UTC</key><date>2014-03-06T19:05:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-04-08T19:18:48Z</date>
+			<key>Release Date</key><date>2009-01-01T00:00:00Z</date>
+			<key>Normalization</key><integer>5420</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Satanic Satanist</string>
+			<key>Persistent ID</key><string>459EDCCE18FCFE69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/hmstarrunner38/Music/iTunes/iTunes%20Media/Music/Portugal.%20The%20Man/The%20Satanic%20Satanist/03%20Lovers%20in%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>N222_playlist</string>
+			<key>Playlist ID</key><integer>54918</integer>
+			<key>Playlist Persistent ID</key><string>7E9CAD1D552392C2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>2289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4979</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7427</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
