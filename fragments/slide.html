@@ -6,16 +6,86 @@
                 <link rel="stylesheet" type="text/css" href="../style.css" />       
 		<script src="../js/jquery-2.0.3.min.js"></script>
                 <script src="../js/jquery-1.7.2.min.js"></script>
-		<script src="../js/main.js"></script>  
+		<script src="../js/main.js"></script>             
+                
 
-        
+		<script type="text/javascript">
+			
+			var songIndex = 0;
+			var song;
+		
+			$(document).ready(function() {
+				$.getJSON(
+					"data.json",
+					function(data) {
+						
+						//set first sound
+						$("#albums").attr("src", data.albums.tracks[songIndex]);
+						
+						//audio object
+						song = document.getElementById("albums");
+						
+						//ended event
+						song.addEventListener("ended", function() {
+							//next song index
+							songIndex++;
+							//song index is less than all songs
+							if(songIndex < data.albums.tracks.length) {
+								//set sound
+								$("#albums").attr("src", data.albums.tracks[songIndex]);
+								//play sound
+								song.play();
+							} else {
+								//all sounds finished playing
+								$("#details").html("The End");
+							}
+						});
+						//play first sound
+						song.play();
+					}
+				);
+			});
+		</script>
 	</head>
 	<body>
-           <!-- this is the page where our music player will be for users to play -->  
-
-
-
-
-
-        </body>
+            
+            <div id ="myMusicPlayer">   
+                <div id="myMusicPlayerHeader">
+                    Breliz Player
+                </div>
+                <div id="musicTabs">
+                    <ul id="musicTabsList">
+                        <li class="list">Genre</li>
+                        <li class="list">Album</li>
+                        <li class="list">Artist</li>
+                    </ul>
+                </div>
+		<h1 id="details"></h1>
+		<audio id="albums"></audio>
+                
+                
+    <p class="notice" id="no-js-notice">Javascript is currently disabled. For the best experience here, please <a href="http://enable-javascript.com/"> enable Javascript in your browser</a>!
+    </p>
+        <section>
+            <audio loop controls>
+                <source src="playlist/playlist/1991.mp3" />
+                Your browser does not support the video tag, loser.
+            </audio>
+            <div>
+                <button id="pause-control" class="control">Pause</button>
+                <button id="play-control" class="control">Play</button>
+            </div>
+        </section>
+    
+            </div>
+    <!-- Scripts at the bottom of the body!! -->
+    <script src="js/audio.js"></script>
+    <script>
+        document.getElementById('no-js-notice').className += " hide";
+    </script>                
+                
+                
+	</body>
+        
+        
 </html>

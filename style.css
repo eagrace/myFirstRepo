@@ -148,3 +148,139 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0084', end
                             width: 80%;
                             color: black;
                         }
+                        
+                        
+/* This is the styling for the audio play and controls */                       
+
+/**
+  * Play button
+  */
+.radio-default #play{
+    position: absolute;
+    top: 75px;
+    left: 255px;
+    width: 40px;
+    height: 40px;
+    background-image: url(../gfx/default/button-play.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.radio-default #play{
+    /* some style */
+    background-color: #666666;
+}
+
+.radio-different #play{
+    /* some different style */
+    background-color: #0088cc;
+}
+
+
+
+
+
+
+/*grabbing from github */
+
+/* General Styles Here */
+
+body {
+background-color: #fafafa;
+font-size:16px;
+font-family: sans-serif;
+}
+
+.notice {
+background-color: #ffff79;
+color: #909028;
+border: 1px solid #eaea5a;
+display:inline-block;
+font-size: 1.25em;
+text-align: center;
+width:100%;
+margin: 10px auto;
+line-height: 2em;
+}
+
+.hide { display:none; }
+
+/* Style video control buttons */
+.control {
+font-size: 1.3em;
+background-color: #eee;
+border-radius: 3px;
+border: 1px solid #d5d5d5;
+min-width: 163px;
+color: rgba(51, 51, 51, 0.57);
+}
+
+.control:hover {
+color: #333;
+border-color: #868585;
+background-color: #b6b1b1;
+}
+
+#myMusicPlayer  {
+    
+    height: 700px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 30px 30px 30px 30px;
+    -moz-border-radius: 30px 30px 30px 30px;
+    -webkit-border-radius: 30px 30px 30px 30px;
+    border: 4px solid #000000;
+    -webkit-box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);
+    background: #b5bdc8; /* Old browsers */
+    background: -moz-linear-gradient(top, #b5bdc8 0%, #3e4447 0%, #40555e 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b5bdc8), color-stop(0%,#3e4447), color-stop(100%,#40555e)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #b5bdc8 0%,#3e4447 0%,#40555e 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #b5bdc8 0%,#3e4447 0%,#40555e 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #b5bdc8 0%,#3e4447 0%,#40555e 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #b5bdc8 0%,#3e4447 0%,#40555e 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#40555e',GradientType=0 ); /* IE6-9 */
+
+}
+
+#myMusicPlayerHeader    {
+    font-size: 24px;
+    text-align: center;
+    font-variant: small-caps;
+    padding: 20px;
+    border-radius: 20px 20px 0px 0px;
+    -moz-border-radius: 20px 20px 0px 0px;
+    -webkit-border-radius: 20px 20px 0px 0px;
+    border: 6px solid #000000;
+    background-color: #eeeeee; /* Old browsers */
+    background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+
+}
+
+#musicTabs  {
+    background-color: transparent;
+    margin-top: 0px;
+    width: 800px;
+    height: 80px;
+    
+}
+
+ li.list  {
+    display: inline;
+    border-radius: 0px 0px 2px 2px;
+    -moz-border-radius: 0px 0px 2px 2px;
+    -webkit-border-radius: 0px 0px 2px 2px;
+    border: 3px solid #000000;
+    padding: 2px;
+    text-align: center;
+}
